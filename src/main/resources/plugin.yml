@@ -1,9 +1,9 @@
 name: BattleCore
-version: '${version}'
-main: ru.araclecore.battlecore.battlecore.BattleCore
+version: 'ALPHA-0.0.1'
+main: ru.araclecore.battlecore.BattleCore
 api-version: '1.20'
 prefix: BattleCore
 load: STARTUP
-authors: [aracle]
+authors: [ aracle ]
 description: BattleCore project by Adventures Studio
 website: adventures-studio.ru

@@ -4,7 +4,7 @@ plugins {
 }
 
 group = 'ru.araclecore.battlecore'
-version = 'ALFA-0.0.1'
+version = 'ALPHA-0.0.2'
 
 repositories {
     mavenCentral()
